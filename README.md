@@ -32,23 +32,7 @@ components. Download is available on:
      src="app/src/main/play/listings/en-US/graphics/phone-screenshots/2.png"
      width="40%"/>
 
-### Changelog
-[View changelog here][changelog] for the app release notes.
-
-### Contributing
-Contributions are welcome, especially translations (see [`TRANSLATING.md`][translating]).
-- Please open an issue before submitting a pull request that adds a new feature, so it can be
-    discussed.
-- All changes should be committed the `dev` branch, not `master`.
-- Make sure to follow existing code style (see `config/intellij-codestylexml` file).
-
-### License & credits
-- All code is licensed under Apache License 2.0.
-- Icons were mostly found at [Material Design Icons][mdi-icons], license can be found
-[here][mdi-icons-license].
-- Thanks to the following contributors for translations:
-    - Arabic: [@afmbsr](https://github.com/afmbsr)
-    - German: [@memyselfandi](https://troet.cafe/@memyselfandi)
+ 
     - Italian: carallo ([Crowdin](https://crowdin.com/profile/carallo))
     - Norwegian: [@FTno](https://github.com/FTno)
     - Polish: Sebastian Jasiński ([Crowdin](https://crowdin.com/profile/princenorris))
