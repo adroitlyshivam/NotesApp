@@ -1,6 +1,6 @@
 # NotesApp
 
-![App icon](app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png)
+ 
 
 *The app is not actively developed since I have deviated from Android development in recent years.
 I'll fix critical bugs, but features may not be implemented before a very long time, if ever. 
